@@ -30,12 +30,20 @@ The goal of this project is to build a structured and scalable API testing suite
 ## Project Structure
 
 ```text
-collections/
-└── customers/
-    └── Customers.postman_collection.json
-
-environments/
-└── Stripe_API_env.postman_environment.json
+STRIPE_API_TESTING/
+│
+├── collections/
+│ └── customers/
+│ └── Customers.postman_collection.json
+│
+├── environments/
+│ └── Stripe_API_env.postman_environment.json
+│
+├── docs/
+│
+├── screenshots/
+│
+└── README.md
 ```
 
 ---
